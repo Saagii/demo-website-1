@@ -273,6 +273,99 @@ body {
     background: transparent;
 }
 
+/* // ----------------------------- PEAS CSS -------------------------------- */
+.peas-block {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px 0px 50px 0px;
+}
+
+.peas-block-1 {
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 350px;
+}
+
+.peas-img-p {
+    width: 59%;
+    background: url('../assets/images/peas-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.peas-img-s {
+    width: 39%;
+}
+
+.peas-img-s-1 {
+    width: 100%;
+    float: left;
+    height: 173px;
+    background: url('../assets/images/peas-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.peas-img-s-2 {
+    width: 100%;
+    float: left;
+    clear: both;
+    height: 174px;
+    margin-top: 3px;
+    background: url('../assets/images/peas-5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.peas-block-2 {
+    width: 45%;
+    background: white;
+    padding: 25px 0px;
+    box-shadow: 6px 11px 40px 3px #d3d3d34d;
+}
+
+.peas-title {
+    font-size: 28px;
+    float: left;
+    width: 90%;
+    padding-bottom: 40px;
+    font-family: 'Prata', serif;
+    font-weight: bold;
+    margin-left: 20px;
+    line-height: 1;
+    text-align: center;
+}
+
+.peas-content {
+    width: 90%;
+    font-size: 18px;
+    float: left;
+    font-family: 'Prata', serif;
+    margin-left: 20px;
+    line-height: 2;
+    color: #292525;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.peas-shop-btn-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-left: 20px;
+}
+
+.peas-shop-btn {
+    border: 1px solid black;
+}
+
 /* // ----------------------------- DIYA CSS -------------------------------- */
 .diyas-block {
     width: 85%;
@@ -367,6 +460,99 @@ body {
     padding: 10px;
     border-radius: 4px;
     background: transparent;
+}
+
+/* // ----------------------------- Dairy CSS -------------------------------- */
+.dairy-block {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px 0px 50px 0px;
+}
+
+.dairy-block-1 {
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 350px;
+}
+
+.dairy-img-p {
+    width: 59%;
+    background: url('../assets/images/butter-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.dairy-img-s {
+    width: 39%;
+}
+
+.dairy-img-s-1 {
+    width: 100%;
+    float: left;
+    height: 173px;
+    background: url('../assets/images/paneer-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.dairy-img-s-2 {
+    width: 100%;
+    float: left;
+    clear: both;
+    height: 174px;
+    margin-top: 3px;
+    background: url('../assets/images/butter-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.dairy-block-2 {
+    width: 45%;
+    background: white;
+    padding: 25px 0px;
+    box-shadow: 6px 11px 40px 3px #d3d3d34d;
+}
+
+.dairy-title {
+    font-size: 28px;
+    float: left;
+    width: 90%;
+    padding-bottom: 40px;
+    font-family: 'Prata', serif;
+    font-weight: bold;
+    margin-left: 20px;
+    line-height: 1;
+    text-align: center;
+}
+
+.dairy-content {
+    width: 90%;
+    font-size: 18px;
+    float: left;
+    font-family: 'Prata', serif;
+    margin-left: 20px;
+    line-height: 2;
+    color: #292525;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.dairy-shop-btn-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-left: 20px;
+}
+
+.dairy-shop-btn {
+    border: 1px solid black;
 }
 
 
