@@ -364,6 +364,9 @@ body {
 
 .peas-shop-btn {
     border: 1px solid black;
+    padding: 10px;
+    border-radius: 4px;
+    background: transparent;
 }
 
 /* // ----------------------------- DIYA CSS -------------------------------- */
@@ -553,6 +556,9 @@ body {
 
 .dairy-shop-btn {
     border: 1px solid black;
+    padding: 10px;
+    border-radius: 4px;
+    background: transparent;
 }
 
 
@@ -575,7 +581,9 @@ body {
 }
 
 .diyas-block,
-.garlics-block {
+.garlics-block,
+.peas-block,
+.dairy-block  {
     padding: 20px 0px 50px 0px;
 }
 
@@ -584,8 +592,17 @@ body {
 .garlics-block-1,
 .garlics-block-2,
 .diyas-block-1,
-.diyas-block-2 {
+.diyas-block-2,
+.peas-block-1,
+.peas-block-2,
+.dairy-block-1,
+.dairy-block-2   {
     width: 100%;
+}
+
+.garlic-title,
+.peas-title {
+    font-size: 24px;
 }
 
 }
